@@ -1,0 +1,5 @@
+
+build/*
+__pycache__/*
+sweatbox_scenario_generator.py
+sweatbox_scenario_generator.spec
