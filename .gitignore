@@ -1,5 +1,6 @@
 
 build/*
 __pycache__/*
+dist/*
 sweatbox_scenario_generator.py
 sweatbox_scenario_generator.spec
