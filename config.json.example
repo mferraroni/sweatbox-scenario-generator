@@ -1,0 +1,46 @@
+{
+	"api_key": "your_api_key",
+	"callsigns": ["AUA", "ITY", "ABN", "NPV", "BAW", "SWR", "THY", "KLM", "SAS", "UAE", "VLG", "EJU" ],
+	"planes" : [
+    {  
+	   "PLANE": "B738",
+       "MIN_SPEED": 350,
+       "MAX_SPEED": 480,
+       "MIN_ALT": 150,
+       "MAX_ALT": 210,
+       "RULES": "I"
+    },
+	{
+	   "PLANE": "A20N",
+       "MIN_SPEED": 350,
+       "MAX_SPEED": 480,
+       "MIN_ALT": 150,
+       "MAX_ALT": 210,
+       "RULES": "I"
+    },
+	{
+       "PLANE": "B744",
+       "MIN_SPEED": 350,
+       "MAX_SPEED": 480,
+       "MIN_ALT": 150,
+       "MAX_ALT": 210,
+       "RULES": "I"
+    },
+	{
+	   "PLANE": "C172",
+       "MIN_SPEED": 100,
+       "MAX_SPEED": 100,
+       "MIN_ALT": 10,
+       "MAX_ALT": 120,
+       "RULES": "V"
+    },
+	{
+	   "PLANE": "TBM9",
+       "MIN_SPEED": 100,
+       "MAX_SPEED": 300,
+       "MIN_ALT": 10,
+       "MAX_ALT": 220,
+       "RULES": "V"
+    }
+	]
+}
